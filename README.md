@@ -1,4 +1,30 @@
-## Welcome to GitHub Pages
+## l.ocal.domains
+
+* l.ocal.audio
+* l.ocal.build
+* l.ocal.bz
+* l.ocal.camera
+* l.ocal.chat
+* l.ocal.cloud
+* l.ocal.computer
+* l.ocal.directory
+* l.ocal.email
+* l.ocal.in
+* l.ocal.link
+* l.ocal.me
+* l.ocal.media
+* l.ocal.network
+* l.ocal.ninja
+* l.ocal.photo
+* l.ocal.rest
+* l.ocal.run
+* l.ocal.sh
+* l.ocal.site
+* l.ocal.software
+* l.ocal.us
+* l.ocal.video
+* l.ocal. website
+* l.ocal.zone
 
 You can use the [editor on GitHub](https://github.com/bpmccurdy/test-domain-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
