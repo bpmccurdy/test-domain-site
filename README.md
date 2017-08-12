@@ -1,3 +1,7 @@
+## 
+~https~ ://127.0.0.1   -> https://127.0.0.1-l.ocal.host
+
+
 ## l.ocal.domains
 
 * l.ocal.audio
