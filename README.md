@@ -26,6 +26,28 @@
 * l.ocal. website
 * l.ocal.zone
 
+## hyphinated tld suffuxes for all major tlds
+https://www.mywebsite.com-l.ocal.site
+
+## certificate
+Certificates are cdn cached for 1 week
+
+https://certify-l.ocal.domains/fullchain.pem
+https://certify-l.ocal.domains/chain.pem
+
+New certificates are issued from letsencrypt weekly
+
+## chrome extenion
+
+type `localhost` get `l.ocal.host`
+
+
+
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/bpmccurdy/test-domain-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
